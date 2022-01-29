@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    background-color: #383838;
+    align-items: center;
+    height: 100vh;
+}
+
+a {
+    color: inherit;
+}
+
+i {
+    color: aliceblue;
+}
+
+span {
+    margin-right: 1rem;
+}
+
+a:hover {
+    color: #606060;
+}
+
+i:hover {
+    color: #606060;
+}
